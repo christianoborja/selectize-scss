@@ -1,0 +1,3 @@
+$(function() {
+	$('.select-test').selectize({});
+});
